@@ -1,8 +1,11 @@
 # Twitter-Auto-Retweet-Like-and-Comment-for-an-Account
 Twitter Auto Retweet, Like, and Comment for an Account until you stop using selenium with python
 
-change comment if you needed in 15th line 
-Change the username and password on the 30 and 24th line & replace account url in 37th line if you want auto retweet and like and comment to hashtag then remove # from 39 to 41 line and replace hashatg with your required...
+Change the username and password on the 30th and 24th lines.
+
+Replace the account URL on the 37th line.
+
+If you want auto retweet, like, and comment using a hashtag, then remove the '#' from lines 39 to 41 and replace "hashtag" with your desired hashtag. Don't forget to add '#' at the beginning of the 37th line.
 
 ## Note: Use accounts that do not have two-factor authentication.
 
