@@ -1,5 +1,5 @@
 # Twitter-Auto-Retweet-Like-and-Comment-for-an-Account
-Twitter Auto Retweet, Like, and Comment for an Account until you stop using selenium with python
+Twitter Auto Retweet, Like, and Comment for an Account & hashtag until you stop using selenium with python
 
 Change the username and password on the 30th and 24th lines.
 
