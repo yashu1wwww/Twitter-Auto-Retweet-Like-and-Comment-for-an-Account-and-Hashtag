@@ -46,7 +46,7 @@ time.sleep(4)
 while True:
     try:
         retweet_button = driver.find_element_by_xpath("//div[@data-testid='retweet']/div").click()  # retweet button
-        time.sleep(1) #click on retweet button
+        time.sleep(1) retweet button
 
         retweet_button = driver.find_element_by_xpath("//div[@data-testid='retweetConfirm']/div").click()  # retweet click #confirm
         time.sleep(2) #click on retweet button
