@@ -37,7 +37,7 @@ time.sleep(4)
 driver.get("https://twitter.com/X")  #replace with which account you want to do...
 
 #input_field = driver.find_element_by_xpath('//input[@data-testid="SearchBox_Search_Input"]')
-#input_field.send_keys('#twitter') #replace with hashtag which you needed
+#input_field.send_keys('#twitter') #replace with hashtag and remove # in start and add #to 37th line starting if you use hashatg..
 #input_field.send_keys(Keys.ENTER)
 
 time.sleep(4)
