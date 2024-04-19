@@ -11,7 +11,7 @@ If you want auto retweet, like, and comment using a hashtag, then remove the '#'
 
 Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the designated folder. Open the command prompt in that particular folder and enter rlc.py or double-click on the rlc.py file.
 
-👉Note:-
+# 👉 Note: Every time Twitter updates the code, it varies. So press 'Ctrl+Shift+C' to open the developer tools, and inspect and fork it..
 
 👉if your selenium version is in latest version then the code never run
 
